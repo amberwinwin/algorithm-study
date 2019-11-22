@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/distanceBetweenBusStops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/addDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/addDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/appreOnlyOneTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/appreOnlyOneTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/levelTraversalOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/levelTraversalOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/powerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/powerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +16,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+            <state relative-caret-position="242">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="28" selection-start-line="28" selection-end-line="46" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,6 +62,7 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/game.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/distanceBetweenBusStops.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java" />
       </list>
     </option>
   </component>
@@ -75,6 +80,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,12 +99,18 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="problem" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -201,12 +213,12 @@
       <workItem from="1574152791035" duration="5024000" />
       <workItem from="1574240484820" duration="4074000" />
       <workItem from="1574314914579" duration="6188000" />
-      <workItem from="1574402822675" duration="334000" />
+      <workItem from="1574402822675" duration="1284000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15620000" />
+    <option name="totallyTimeSpent" value="16570000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="712" y="124" width="1131" height="819" extended-state="0" />
@@ -229,7 +241,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3138686" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3138686" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -347,8 +359,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="37" column="33" lean-forward="true" selection-start-line="37" selection-start-column="33" selection-end-line="37" selection-end-column="33" />
+        <state relative-caret-position="242">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" selection-start-line="28" selection-end-line="46" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
