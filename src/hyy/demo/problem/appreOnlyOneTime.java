@@ -1,4 +1,4 @@
-package hyy.demo;
+package hyy.demo.problem;
 
 import java.util.Arrays;
 import java.util.HashSet;

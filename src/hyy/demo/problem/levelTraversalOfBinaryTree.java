@@ -1,4 +1,4 @@
-package hyy.demo;
+package hyy.demo.problem;
 
 import hyy.demo.base.TreeNode;
 import java.util.ArrayList;
