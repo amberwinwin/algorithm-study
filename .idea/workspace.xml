@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/maxNumberOfBalloons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/uniqueOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +18,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/maxNumberOfBalloons.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/uniqueOccurrences.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="332">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+            <state relative-caret-position="349">
+              <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -52,14 +56,15 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/maxNumberOfBalloons.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/uniqueOccurrences.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="712" />
-    <option name="y" value="124" />
-    <option name="width" value="1131" />
-    <option name="height" value="819" />
+    <option name="x" value="780" />
+    <option name="y" value="13" />
+    <option name="width" value="1044" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -69,7 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +104,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -120,7 +125,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.relativeSortArray">
+  <component name="RunManager" selected="Application.uniqueOccurrences">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -145,6 +150,20 @@
     </configuration>
     <configuration name="relativeSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.relativeSortArray" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hyy.demo.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uniqueOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.uniqueOccurrences" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -184,6 +203,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.uniqueOccurrences" />
         <item itemvalue="Application.relativeSortArray" />
         <item itemvalue="Application.Main" />
       </list>
@@ -202,18 +222,19 @@
       <workItem from="1574152791035" duration="5024000" />
       <workItem from="1574240484820" duration="4074000" />
       <workItem from="1574314914579" duration="6188000" />
-      <workItem from="1574402822675" duration="2348000" />
+      <workItem from="1574402822675" duration="7175000" />
+      <workItem from="1574662623224" duration="1081000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17634000" />
+    <option name="totallyTimeSpent" value="23542000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="712" y="124" width="1131" height="819" extended-state="0" />
+    <frame x="780" y="13" width="1044" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2987862" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24812834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -222,15 +243,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32965687" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329927" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24113475" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.29432625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3138686" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25531915" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -246,6 +267,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/algorithm$uniqueOccurrences.ic" NAME="uniqueOccurrences Coverage Results" MODIFIED="1574663586656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>hyy.demo.problem.*</FILTER>
+    </SUITE>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -365,8 +391,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/maxNumberOfBalloons.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="132">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/uniqueOccurrences.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="66" column="51" selection-start-line="66" selection-start-column="51" selection-end-line="66" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
