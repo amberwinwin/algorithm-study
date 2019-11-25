@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/ToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/addDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/addDigits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/appreOnlyOneTime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/appreOnlyOneTime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/distanceBetweenBusStops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/distanceBetweenBusStops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/game.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/levelTraversalOfBinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/levelTraversalOfBinaryTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/maxNumberOfBalloons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/maxNumberOfBalloons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/minimumAbsDifference.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/minimumAbsDifference.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/powerOfTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/powerOfTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/relativeSortArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/relativeSortArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/reverseList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/reverseList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/uniqueOccurrences.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/uniqueOccurrences.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/addDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/AddDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/appreOnlyOneTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/AppreOnlyOneTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/distanceBetweenBusStops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/DistanceBetweenBusStops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/levelTraversalOfBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/LevelTraversalOfBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/maxNumberOfBalloons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/MaxNumberOfBalloons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/MinimumAbsDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/powerOfTwo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/PowerOfTwo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/RelativeSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/reverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/uniqueOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/UniqueOccurrences.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+            <state relative-caret-position="162">
+              <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -80,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/toLowerCase.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/ToLowerCase.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java" />
       </list>
     </option>
   </component>
@@ -276,18 +254,18 @@
       <workItem from="1574240484820" duration="4074000" />
       <workItem from="1574314914579" duration="6188000" />
       <workItem from="1574402822675" duration="7175000" />
-      <workItem from="1574662623224" duration="3065000" />
+      <workItem from="1574662623224" duration="4748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25526000" />
+    <option name="totallyTimeSpent" value="27209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="751" y="45" width="1044" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24796748" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24796748" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -296,7 +274,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286052" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24113475" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24113475" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.29432625" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,7 +282,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25531915" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -472,8 +450,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="26">
+          <caret line="15" column="14" lean-forward="true" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="19" />
         </state>
       </provider>
     </entry>
