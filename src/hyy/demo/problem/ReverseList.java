@@ -13,7 +13,7 @@ import hyy.demo.base.ListNode;
  * @version V2.0, 2019/11/20
  * @copyright
  */
-public class reverseList {
+public class ReverseList {
 
     public ListNode reverseList(ListNode head) {
         if (null == head) {

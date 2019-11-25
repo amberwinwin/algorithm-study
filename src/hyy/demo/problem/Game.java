@@ -17,7 +17,7 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/21
  * @copyright
  */
-public class game {
+public class Game {
 
     public int game(int[] guess, int[] answer) {
         int i = 0;

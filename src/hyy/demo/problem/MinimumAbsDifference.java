@@ -23,7 +23,7 @@ import java.util.List;
  * @version V2.0, 2019/11/22
  * @copyright
  */
-public class minimumAbsDifference {
+public class MinimumAbsDifference {
 
     public List<List<Integer>> minimumAbsDifference(int[] arr) {
         int[] table = new int[arr.length];

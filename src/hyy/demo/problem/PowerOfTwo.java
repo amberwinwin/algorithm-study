@@ -11,7 +11,7 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/20
  * @copyright
  */
-public class powerOfTwo {
+public class PowerOfTwo {
     /* 另外的思路是按位与 */
     public boolean isPowerOfTwo(int n) {
         if (n <= 0) {

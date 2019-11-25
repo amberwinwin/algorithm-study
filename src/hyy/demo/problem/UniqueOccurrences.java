@@ -25,7 +25,7 @@ import java.util.Set;
  * @version V2.0, 2019/11/22
  * @copyright
  */
-public class uniqueOccurrences {
+public class UniqueOccurrences {
 
     public static boolean uniqueOccurrences2(int[] arr) {
         if (arr.length <= 1) {

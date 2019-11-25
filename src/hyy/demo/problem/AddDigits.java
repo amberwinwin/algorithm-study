@@ -11,9 +11,9 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/20
  * @copyright
  */
-public class addDigits {
+public class AddDigits {
 
-    /*    public int addDigits(int num) {
+    /*    public int AddDigits(int num) {
             int sum = 0;
             while (num > 0){
                 sum += num%10;

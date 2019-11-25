@@ -19,7 +19,7 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/21
  * @copyright
  */
-public class distanceBetweenBusStops {
+public class DistanceBetweenBusStops {
 
     public int distanceBetweenBusStops(int[] distance, int start, int destination) {
         int total = 0;

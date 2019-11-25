@@ -26,7 +26,7 @@ import java.util.Stack;
  * @version V2.0, 2019/11/19
  * @copyright
  */
-public class levelTraversalOfBinaryTree {
+public class LevelTraversalOfBinaryTree {
 
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();

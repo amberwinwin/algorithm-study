@@ -20,7 +20,7 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/21
  * @copyright
  */
-public class relativeSortArray {
+public class RelativeSortArray {
 
     public static int[] relativeSortArray1(int[] arr1, int[] arr2) {
         int[] table = new int[1001];

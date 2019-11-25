@@ -19,7 +19,7 @@ import java.util.Set;
  * @version V2.0, 2019/11/19
  * @copyright
  */
-public class appreOnlyOneTime {
+public class AppreOnlyOneTime {
 
     /*  1、排序求解 2、借助于set 3、异或 */
     public int singleNumber(int[] nums) {

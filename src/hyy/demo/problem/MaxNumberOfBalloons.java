@@ -9,7 +9,7 @@ package hyy.demo.problem;
  * @version V2.0, 2019/11/22
  * @copyright
  */
-public class maxNumberOfBalloons {
+public class MaxNumberOfBalloons {
 
     public int maxNumberOfBalloons(String text) {
         if (null == text || text.length() < 7) {
