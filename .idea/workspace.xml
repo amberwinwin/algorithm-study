@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -18,13 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="440">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -62,10 +59,11 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="910" />
     <option name="y" value="85" />
     <option name="width" value="1044" />
@@ -259,15 +257,15 @@
       <workItem from="1574314914579" duration="6188000" />
       <workItem from="1574402822675" duration="7175000" />
       <workItem from="1574662623224" duration="5402000" />
-      <workItem from="1574747354977" duration="1829000" />
+      <workItem from="1574747354977" duration="2879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29692000" />
+    <option name="totallyTimeSpent" value="30742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="85" width="1044" height="980" extended-state="1" />
+    <frame x="910" y="85" width="1044" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24796748" />
@@ -474,6 +472,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
