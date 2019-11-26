@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/ValidMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/ValidMountainArray.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="45" selection-start-line="45" selection-end-line="49" selection-end-column="9" />
+            <state relative-caret-position="338">
+              <caret line="30" selection-start-line="30" selection-end-line="36" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -60,6 +61,7 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/ValidMountainArray.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java" />
       </list>
     </option>
   </component>
@@ -257,12 +259,12 @@
       <workItem from="1574314914579" duration="6188000" />
       <workItem from="1574402822675" duration="7175000" />
       <workItem from="1574662623224" duration="5402000" />
-      <workItem from="1574747354977" duration="5028000" />
+      <workItem from="1574747354977" duration="7607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32891000" />
+    <option name="totallyTimeSpent" value="35470000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="910" y="85" width="1044" height="980" extended-state="0" />
@@ -484,8 +486,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/ValidMountainArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="45" selection-start-line="45" selection-end-line="49" selection-end-column="9" />
+        <state relative-caret-position="272">
+          <caret line="39" column="37" lean-forward="true" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="30" selection-start-line="30" selection-end-line="36" selection-end-column="9" />
         </state>
       </provider>
     </entry>
