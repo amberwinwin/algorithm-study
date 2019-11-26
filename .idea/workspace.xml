@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,12 +16,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="19" />
+            <state relative-caret-position="250">
+              <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,12 +61,13 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/ToLowerCase.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsToeplitzMatrix.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="751" />
-    <option name="y" value="45" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="910" />
+    <option name="y" value="85" />
     <option name="width" value="1044" />
     <option name="height" value="980" />
   </component>
@@ -75,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,6 +108,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -254,15 +258,16 @@
       <workItem from="1574240484820" duration="4074000" />
       <workItem from="1574314914579" duration="6188000" />
       <workItem from="1574402822675" duration="7175000" />
-      <workItem from="1574662623224" duration="4748000" />
+      <workItem from="1574662623224" duration="5402000" />
+      <workItem from="1574747354977" duration="1829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27209000" />
+    <option name="totallyTimeSpent" value="29692000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="751" y="45" width="1044" height="980" extended-state="0" />
+    <frame x="910" y="85" width="1044" height="980" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24796748" />
@@ -282,7 +287,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25531915" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.25531915" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -457,8 +462,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/Transpose.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="40" selection-start-line="40" selection-end-line="51" selection-end-column="19" />
+        <state relative-caret-position="272">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/TwoSum2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
