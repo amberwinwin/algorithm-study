@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsUnivalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/TrimBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,12 +18,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsUnivalTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="30" selection-start-line="30" selection-end-line="36" selection-end-column="9" />
+            <state relative-caret-position="140">
+              <caret line="17" selection-start-line="17" selection-end-line="32" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -62,13 +64,16 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsUgly.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/ValidMountainArray.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/LowestCommonAncestor.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/TrimBST.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/IsUnivalTree.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="910" />
-    <option name="y" value="85" />
-    <option name="width" value="1044" />
+    <option name="x" value="746" />
+    <option name="y" value="93" />
+    <option name="width" value="967" />
     <option name="height" value="980" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -79,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -108,7 +114,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -259,18 +264,19 @@
       <workItem from="1574314914579" duration="6188000" />
       <workItem from="1574402822675" duration="7175000" />
       <workItem from="1574662623224" duration="5402000" />
-      <workItem from="1574747354977" duration="7607000" />
+      <workItem from="1574747354977" duration="10258000" />
+      <workItem from="1574840188552" duration="3151000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35470000" />
+    <option name="totallyTimeSpent" value="41272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="910" y="85" width="1044" height="980" extended-state="0" />
+    <frame x="746" y="93" width="967" height="980" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24796748" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25248072" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -493,8 +499,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsBoomerang.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="31" column="47" lean-forward="true" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/LowestCommonAncestor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="38" column="24" lean-forward="true" selection-start-line="38" selection-start-column="24" selection-end-line="38" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/TrimBST.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="30" selection-start-line="30" selection-end-line="36" selection-end-column="9" />
+          <caret line="54" column="26" lean-forward="true" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/IsUnivalTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="17" selection-start-line="17" selection-end-line="32" selection-end-column="57" />
         </state>
       </provider>
     </entry>
