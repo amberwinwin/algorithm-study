@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/AverageOfLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/FindTilt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/PrefixesDivBy5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,10 +19,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/FindTilt.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="29" selection-start-line="29" selection-end-line="51" selection-end-column="5" />
+            <state relative-caret-position="51">
+              <caret line="32" selection-start-line="32" selection-end-line="57" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hyy/demo/powerOfTwo.java" />
-        <option value="$PROJECT_DIR$/src/hyy/demo/addDigits.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/game.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/distanceBetweenBusStops.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" />
@@ -93,13 +94,15 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/BuildTree.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/AverageOfLevels.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/FindTilt.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/PrefixesDivBy5.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="596" />
     <option name="y" value="64" />
-    <option name="width" value="983" />
+    <option name="width" value="1304" />
     <option name="height" value="938" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -111,7 +114,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -141,6 +143,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -315,18 +318,19 @@
       <workItem from="1578898513475" duration="4728000" />
       <workItem from="1579058183538" duration="9122000" />
       <workItem from="1579425420965" duration="1247000" />
-      <workItem from="1579501797392" duration="6161000" />
+      <workItem from="1579501797392" duration="9010000" />
+      <workItem from="1579575026039" duration="4483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="156995000" />
+    <option name="totallyTimeSpent" value="164327000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="64" width="983" height="938" extended-state="0" />
+    <frame x="596" y="64" width="1304" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.5308776" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.5305466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24863088" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -336,14 +340,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286052" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.27238807" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.19900498" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.19900498" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.18034826" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16293532" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -366,20 +370,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/Game.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/DistanceBetweenBusStops.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="30" column="55" lean-forward="true" selection-start-line="30" selection-start-column="55" selection-end-line="30" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -769,6 +759,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="29" selection-start-line="29" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/PrefixesDivBy5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="29" column="29" lean-forward="true" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="32" selection-start-line="32" selection-end-line="57" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
