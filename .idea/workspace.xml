@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/PrefixesDivBy5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -19,13 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java">
+        <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="32" selection-start-line="32" selection-end-line="57" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="154">
+              <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -45,7 +41,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/hyy/demo/game.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/distanceBetweenBusStops.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/relativeSortArray.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/minimumAbsDifference.java" />
@@ -96,13 +91,14 @@
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/FindTilt.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/PrefixesDivBy5.java" />
         <option value="$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java" />
+        <option value="$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="y" value="64" />
-    <option name="width" value="1304" />
+    <option name="x" value="486" />
+    <option name="y" value="69" />
+    <option name="width" value="1207" />
     <option name="height" value="938" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -113,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -132,17 +127,11 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-              <item name="problem" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -319,15 +308,16 @@
       <workItem from="1579058183538" duration="9122000" />
       <workItem from="1579425420965" duration="1247000" />
       <workItem from="1579501797392" duration="9010000" />
-      <workItem from="1579575026039" duration="4483000" />
+      <workItem from="1579575026039" duration="4606000" />
+      <workItem from="1579655710681" duration="5379000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="164327000" />
+    <option name="totallyTimeSpent" value="169829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="64" width="1304" height="938" extended-state="0" />
+    <frame x="486" y="69" width="1207" height="938" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.5305466" />
@@ -347,7 +337,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3298969" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.16293532" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.21890548" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -370,13 +360,6 @@
     </SUITE>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/java/jdk1.8/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="166" column="23" selection-start-line="166" selection-start-column="23" selection-end-line="166" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/MinimumAbsDifference.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -774,11 +757,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/BinaryTreePaths.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="32" selection-start-line="32" selection-end-line="57" selection-end-column="5" />
+        <state relative-caret-position="491">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="42" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
