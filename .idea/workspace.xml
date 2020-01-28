@@ -2,13 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2765ec86-08e4-4606-abf2-889f4c3b4282" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/ContainsDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/HammingWeight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/Rotate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/AddTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/CanWinNim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/GenerateMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsAnagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsIsomorphic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/IsPerfectSquare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/MergeTwoLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hyy/demo/problem/MissingNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/FindTilt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/FindTilt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/base/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/base/ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/HammingWeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm/hyy/demo/problem/HammingWeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hyy/demo/base/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hyy/demo/base/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,15 +53,29 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.HammingWeight">
+  <component name="RunManager" selected="Application.IsPerfectSquare">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.FindTilt" />
+    <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.AddTwoNumbers" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hyy.demo.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.GenerateMatrix" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -82,36 +102,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IsPerfectSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.IsPerfectSquare" />
+      <module name="algorithm" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hyy.demo.problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Rotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.Rotate" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hyy.demo.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.Search" />
-      <module name="algorithm" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hyy.demo.problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpdateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hyy.demo.problem.UpdateMatrix" />
       <module name="algorithm" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -157,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IsPerfectSquare" />
+        <item itemvalue="Application.GenerateMatrix" />
+        <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.HammingWeight" />
         <item itemvalue="Application.Rotate" />
-        <item itemvalue="Application.UpdateMatrix" />
-        <item itemvalue="Application.FindTilt" />
-        <item itemvalue="Application.Search" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +212,9 @@
       <workItem from="1579655710681" duration="5379000" />
       <workItem from="1579673658895" duration="90000" />
       <workItem from="1579673847388" duration="12148000" />
-      <workItem from="1579841606088" duration="6359000" />
+      <workItem from="1579841606088" duration="19735000" />
+      <workItem from="1580132290704" duration="1866000" />
+      <workItem from="1580216990564" duration="1424000" />
     </task>
     <servers />
   </component>
@@ -214,47 +222,47 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="817" height="163" key="GridCell.Tab.0.bottom" timestamp="1579845540721">
+    <state width="817" height="226" key="GridCell.Tab.0.bottom" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1579845540721" />
-    <state width="817" height="163" key="GridCell.Tab.0.center" timestamp="1579845540721">
+    <state width="817" height="226" key="GridCell.Tab.0.bottom/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.0.center" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1579845540721" />
-    <state width="817" height="163" key="GridCell.Tab.0.left" timestamp="1579845540721">
+    <state width="817" height="226" key="GridCell.Tab.0.center/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.0.left" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1579845540721" />
-    <state width="817" height="163" key="GridCell.Tab.0.right" timestamp="1579845540721">
+    <state width="817" height="226" key="GridCell.Tab.0.left/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.0.right" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1579845540721" />
-    <state width="817" height="163" key="GridCell.Tab.1.bottom" timestamp="1579845541027">
+    <state width="817" height="226" key="GridCell.Tab.0.right/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.1.bottom" timestamp="1580051303845">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1579845541027" />
-    <state width="817" height="163" key="GridCell.Tab.1.center" timestamp="1579845541027">
+    <state width="817" height="226" key="GridCell.Tab.1.bottom/0.0.1463.874@0.0.1463.874" timestamp="1580051303845" />
+    <state width="817" height="226" key="GridCell.Tab.1.center" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1579845541027" />
-    <state width="817" height="163" key="GridCell.Tab.1.left" timestamp="1579845541027">
+    <state width="817" height="226" key="GridCell.Tab.1.center/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.1.left" timestamp="1580051303844">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1579845541027" />
-    <state width="817" height="163" key="GridCell.Tab.1.right" timestamp="1579845541027">
+    <state width="817" height="226" key="GridCell.Tab.1.left/0.0.1463.874@0.0.1463.874" timestamp="1580051303844" />
+    <state width="817" height="226" key="GridCell.Tab.1.right" timestamp="1580051303845">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
-    <state width="817" height="163" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1579845541027" />
+    <state width="817" height="226" key="GridCell.Tab.1.right/0.0.1463.874@0.0.1463.874" timestamp="1580051303845" />
     <state x="143" y="0" key="SettingsEditor" timestamp="1579674198817">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="143" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1579674198817" />
-    <state x="371" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579841607600">
+    <state x="371" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1580216990958">
       <screen x="0" y="0" width="1463" height="874" />
     </state>
     <state x="325" y="206" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1579673853214" />
-    <state x="371" y="237" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1579841607600" />
+    <state x="371" y="237" key="com.intellij.ide.util.TipDialog/0.0.1463.874@0.0.1463.874" timestamp="1580216990958" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -263,6 +271,11 @@
           <url>file://$PROJECT_DIR$/src/hyy/demo/problem/UpdateMatrix.java</url>
           <line>95</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/hyy/demo/problem/GenerateMatrix.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
